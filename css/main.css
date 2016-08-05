@@ -1,13 +1,13 @@
 /* Inserte su codigo aqui */
 body{
-	margin: 0px;
-	padding: 0px;
-	font-family: 'Roboto';
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Roboto';
 }
 #header{
-	width: 100%;
-	height: 720px;
-	background-color: #fcce09;
+  width: 100%;
+  height: 720px;
+  background-color: #fcce09;
 }
 a{
   padding-right: 50px;
@@ -15,14 +15,14 @@ a{
   color: #fff;
 }
 .menu{
-	padding-top: 50px;
+  padding-top: 50px;
 }
 nav{
-	float: right;
+  float: right;
   margin: 15px 0px 0px 0px;}
 
 .bottom{
-	background-color: #fcba43;
+  background-color: #fcba43;
   width: 120px;
   height: 50px;
   box-sizing: border-box;
@@ -30,16 +30,17 @@ nav{
   border-radius: 10px;
 }
 .title-banner{
-	text-align: center;
-	margin-top: 220px;
+  text-align: center;
+  margin-top: 220px;
 }
-p.title{
-	font-size:50px
+h1.title{
+  font-size:50px;
+  color:#fff;
 }
 #cuerpo{
-	background-color:#eaeae9;
-	height: auto;
-	text-align: center;
+  background-color:#eaeae9;
+  height: auto;
+  text-align: center;
 }
 .bloque{
   background-color: #fff;
@@ -47,15 +48,15 @@ p.title{
   box-sizing: border-box;
 }
 .title2, .texto{
-	text-align: left;
+  text-align: left;
 }
 .title2{
-	font-size: 30px;
-	color: #868683;
-	margin: 20px 0 10px 0;
+  font-size: 30px;
+  color: #868683;
+  margin: 20px 0 10px 0;
 }
 .texto{
-	color: #C2C3CB;
+  color: #C2C3CB;
 }
 .boton{
   background-color: #fcba43;
@@ -70,5 +71,5 @@ p.title{
   box-sizing: border-box;
 }
 .col-12 p{
-	color: #fff;
+  color: #fff;
 }
